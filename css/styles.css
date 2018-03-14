@@ -1,6 +1,23 @@
-.column {
+.column1 {
   width: 400px;
   float: left;
   padding-right: 5px;
+  background-color: skyblue;
+  margin-right: 10px;
+}
 
+.column2 {
+  width: 400px;
+  float: left;
+  padding-right: 5px;
+  background-color: yellow;
+  margin-right: 10px;
+}
+
+.column3 {
+  width: 400px;
+  float: left;
+  padding-right: 5px;
+  background-color: red;
+  margin-right: 10px;
 }
